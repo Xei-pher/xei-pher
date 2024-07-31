@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### 🌱 I'm a BS Information Technology Graduate from De La Salle University with hands-on experience in web and mobile development, networking, and project management, with knowledge of IT Security best practices. Passionate about leveraging technology to solve real-world problems. Skilled in HTML/CSS, JavaScript, Python, and other web development frameworks.
 <!--
 **Xei-pher/xei-pher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
