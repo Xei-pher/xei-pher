@@ -1,22 +1,18 @@
-### Hi there 👋
+### Hi there! 👋  
 
-### 🌱 I'm a BS Information Technology Graduate from De La Salle University with hands-on experience in web and mobile development, networking, and project management, with knowledge of IT Security best practices. Passionate about leveraging technology to solve real-world problems. Skilled in HTML/CSS, JavaScript, Python, and other web development frameworks.
+I'm a **Security Analyst** with a **BS in Information Technology** from **De La Salle University**. I specialize in **cybersecurity**, with hands-on experience in **threat detection, vulnerability assessments, and incident response**.  
 
-### With three internships in the field, I'm passionate about securing systems and exploring emerging threats in cybersecurity.
+🔐 **Here are some of the things I do:**  
+- Completed the **Multiple Cybersecurity Certifications** 🏆  
+- Actively participating in **CTFs** and **security challenges** to enhance my skills.  
+- Passionate about **securing systems**, understanding **emerging threats**, and **cyber defense** strategies.  
 
-### ⚡I'm looking to enter the field full-time and contribute to a secure digital future.
-<!--
+💻 **Skills & Tools**  
+- Proficient in **SIEM**, **log analysis**, and **network security**.  
+- Experienced with **Python**, **security automation**, and **vulnerability scanning tools**.  
 
-**Xei-pher/xei-pher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Career Goals**  
+I am committed to furthering my career in **cybersecurity**, continuously learning, and contributing to a **safer digital world**.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect!**  
+If you're into cybersecurity or looking for collaboration, feel free to reach out!  
